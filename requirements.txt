@@ -1,0 +1,11 @@
+streamlit==1.31.0
+langchain==0.1.9
+<<<<<<< HEAD
+langchain-openai
+=======
+langchain-groq==0.0.1
+>>>>>>> cb1078669a78c034caae61b925307ef40c626ce0
+langchain-community==0.0.20
+langchain-text-splitters
+pypdf==4.0.1
+python-dotenv==1.0.1
